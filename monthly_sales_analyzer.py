@@ -29,7 +29,7 @@ def total_sales_by_product(data, product_key):
 
 def average_daily_sales(data, product_key):
     """Calculates the average daily sales of a specific product."""
-    pass
+    pass # función incompleta
 
 
 def best_selling_day(data):
